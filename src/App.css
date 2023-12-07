@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    background-color: #05090A;
+}
+
+.file {
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    text-align: center;
+    top: 200px;
+    left: 350px;
+    color:rgb(255,255, 255,1);
+}
+.img111{
+    height: 300px;
+    width: 350px;
+}
+hr{
+    color: #EEF8F7;
+    width: 350px;
+    
+}
+.span1{
+    text-align: left;
+    
+}
+.head1 {
+    height: 600px;
+    width: 100%;
+
+}
+
+.font-ban {
+    font-weight: 900;
+
+}
+
+.head2 {
+    height: 600px;
+    width: 98%;
+    background-color: #05090A;
+    top: 0;
+    position: absolute;
+    opacity: 0.4;
+    z-index: 1;
+}
+
+.bigbox {
+    background-color: #05090A;
+    
+    width: 100%;
+}
+
+
+.sec1 {
+    height: 570px;
+    width: 100%;
+    background-color: #05090A;
+}
+
+.sec2 {
+    height: 400px;
+    width: 550px;
+
+}
+.hww{
+    text-align: justify;
+    font-size: 15px;
+}
+.abt2{
+    text-align: center;
+    background-color: #05090A;
+    height: 550px;
+    padding: 10px 50px;
+}
+
+.img1{
+    margin-top: -250px;
+    margin-left: 500px;
+}
+.img11{
+    
+    width: 500px;
+   
+}
+
+.footer {
+    height: 250px;
+    background-color: #EEF8F7;
+}
+
+.footer11 {
+    padding: 10px;
+    line-height: 30px;
+    font-family: 'DejaVu Sans';
+
+}
+
+.contactfont {
+
+    font-size: 30px;
+    line-height: 50px;
+}
+
+.con {
+    line-height: 30px;
+    font-size: 17px;
+
+}
+
+.icon {
+    margin: 15px;
+}
+
+.joinbtn {
+    width: 70px;
+    border: 1px solid black;
+}
